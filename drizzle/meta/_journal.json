@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1794002019199,
+      "tag": "0001_initial",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1794002019199,
+      "tag": "0002_tracker_grind_state_tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1794070225199,
+      "tag": "0003_add_dashboard_tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1794295578796,
+      "tag": "0004_add_draft_decisions_table",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1794296292226,
+      "tag": "0005_add_draft_decision_history",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1794303796801,
+      "tag": "0006_dedupe_draft_decision_history",
+      "breakpoints": true
+    }
+  ]
+}

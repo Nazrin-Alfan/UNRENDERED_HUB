@@ -1,0 +1,21 @@
+{
+  "entry": "client/dist/index.html",
+  "managedCronJobs": [
+    {
+      "action": "refreshData",
+      "id": "tracker-grind-ku-2-refresh-daily",
+      "kind": "space_action",
+      "schedule": "daily 00:43 Asia/Jakarta (flexible 00:17)"
+    },
+    {
+      "action": "refreshDashboardData",
+      "id": "tracker-grind-ku-2-dashboard-refresh-daily",
+      "kind": "space_action",
+      "schedule": "daily 07:43 Asia/Jakarta (flexible 07:15)"
+    }
+  ],
+  "name": "UNRENDERED Hub",
+  "platformVersion": 28,
+  "runtime": "typescript",
+  "slug": "tracker-grind-ku-2"
+}
